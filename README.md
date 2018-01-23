@@ -1,2 +1,2 @@
-# basicLibrarymanagement
-This is a basic library simulation project written in C++ language using File Handling Concepts
+This project aims at creating a library management system.
+The software works at he admin end where the librarian with admin access can issue resissue and return a book to the library from a student.
